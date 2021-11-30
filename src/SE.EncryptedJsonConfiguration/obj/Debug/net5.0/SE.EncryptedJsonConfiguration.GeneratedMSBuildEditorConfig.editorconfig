@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SE.EncryptedJsonConfiguration
-build_property.ProjectDir = C:\REPOS\SecureConfiguration\src\SE.EncryptedJsonConfiguration\
+build_property.ProjectDir = c:\REPOS\SecureConfiguration\src\SE.EncryptedJsonConfiguration\
