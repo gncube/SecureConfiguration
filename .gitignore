@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/tests/SE.EncryptedJsonConfiguration.Tests/obj/Debug/net5.0/SE.EncryptedJsonConfiguration.Tests.csproj.AssemblyReference.cache
